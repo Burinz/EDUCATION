@@ -1,0 +1,18 @@
+h1{
+    color: rgb(35, 58, 234);
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+hr{
+    border-top: 3px solid black;
+    width:300px;
+    align-items: center;
+}
+
+div {
+    font-family: 'Kanit', sans-serif;  
+}
+
+
